@@ -110,7 +110,7 @@ return 0;
 
 ```
 ## OUTPUT
-<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/343428df-5d69-4648-b2fb-f87c4e1d8373" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d72e5c30-b082-4270-9f9b-9b7f6eaf4a09" />
 
 ## RESULT
 The program is executed successfully
